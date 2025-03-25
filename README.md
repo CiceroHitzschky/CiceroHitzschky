@@ -16,12 +16,14 @@ Busco sempre o aprendizado e a oportunidade de por em prática meus conhecimento
 ### Habilidades
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=30A3DC)
-![Numpy](https://img.shields.io/badge/Numpy-000?style=for-the-badge&logo=Numpy&logoColor=30A3DC)
+![Numpy](https://img.shields.io/badge/Numpy-000?style=for-the-badge&logo=Numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=E94D5F)
-![Selenium](https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=selenium&logoColor=30A3DC)
-![Plotly](https://img.shields.io/badge/Plotly-000?style=for-the-badge&logo=Plotly&logoColor=30A3DC)
-![scikit-learn](https://img.shields.io/badge/sklearn-000?style=for-the-badge&logo=scikit-learn&logoColor=30A3DC)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux&logoColor=30A3DC)
+![Selenium](https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=selenium)
+![Plotly](https://img.shields.io/badge/Plotly-000?style=for-the-badge&logo=Plotly)
+![scikit-learn](https://img.shields.io/badge/sklearn-000?style=for-the-badge&logo=scikit-learn)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux)
+![LaTeX](https://img.shields.io/badge/LaTeX-000?style=for-the-badge&logo=latex)
+![LaTeX](https://img.shields.io/badge/jupyter-000?style=for-the-badge&logo=jupyter)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
 
