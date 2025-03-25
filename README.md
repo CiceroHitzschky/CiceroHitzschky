@@ -1,49 +1,89 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=395471&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A5ACD&size=36&center=true&vCenter=true&width=1000&lines=Be+Welcome!;+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CiceroHitzschky&show_icons=true&count_private=true&hide_border=true&title_color=6A5ACD&icon_color=6A5ACD&text_color=c9d1d9&bg_color=0d1117" alt="Cícero Hitzschky github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CiceroHitzschky&layout=compact&hide_border=true&title_color=6A5ACD&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=CiceroHitzschky&theme=gotham&hide_border=true&area=true&color=6A5ACD)
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MthAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-<a href="https://www.instagram.com/cicero.hitzschky/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
-  
-
-### Main skills:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Selenium](https://img.shields.io/badge/-Selenium-0D1117?style=for-the-badge&logo=Selenium&logoColor=silver&labelColor=0D1117)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-0D1117?style=for-the-badge&logo=Pandas&logoColor=white&labelColor=0D1117)&nbsp; 
-![Jupyter](https://img.shields.io/badge/-Jupyter-0D1117?style=for-the-badge&logo=Jupyter&logoColor=orange&labelColor=0D1117)&nbsp;
 ---
-  
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&logoColor=480062&labelColor=0D1117)&nbsp;
----
-<!-- ### Other Knowledge:
-![Analytical Skill](https://img.shields.io/badge/-Analytical-0D1117?style=for-the-badge&logo=Analytical&labelColor=0D1117)&nbsp;
-   -->
-  
-### Studying in this moment:
-  ![NumPy](https://img.shields.io/badge/-NumPy-0D1117?style=for-the-badge&logo=NumPy&logoColor=green&labelColor=0D1117&textColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![powerbi](https://img.shields.io/badge/-powerbi-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117)&nbsp;  
----
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{CiceroHitzschky}/count.svg" /></p> 
-<br></div>
-  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=395471&height=120&section=footer"/>****
+# Cícero Hitzschky
+<p  style="text-align: justify">
+Sou mestrando pelo Programa de Mestrado Acadêmico em Modelagem e Métodos Quantitativos (PPGMMQ), com área de concentração em Ciência de Dados, no Departamento de Estatística e Matemática Aplicada (DEMA) da Universidade Federal do Ceará (UFC). Possuo especialização em Docência do Ensino Superior e Metodologias Ativas de Aprendizagem pela Faculdade Iguaçu (2024), graduação em Matemática, na modalidade de licenciatura plena, pela Universidade Estadual do Ceará (2023), e graduação tecnológica em Análise e Desenvolvimento de Sistemas pelo Centro Universitário UniFatecie (2023). Fui bolsista pelo Programa de Monitoria Acadêmica da Universidade Estadual do Ceará (PROMAC/UECE) nas disciplinas de Cálculo Diferencial e Integral I e III do curso de Matemática, além de ter atuado como monitor voluntário em Análise Matemática. Atualmente, sou professor temporário da Universidade Estadual do Ceará (UECE) no setor de Matemática Aplicada, campus Itaperi, membro colaborador do Grupo de Extensão e Pesquisa em Matemática Aplicada e Computacional (GEPMAC) da Universidade Estadual do Ceará e líder do Grupo de Extensão e Pesquisa em Ferramentas Digitais para o  Ensino de Matemática (GEPFEM).
+Busco sempre o aprendizado e a oportunidade de por em prática meus conhecimentos teóricos!
+
+<p>
+### Conecte-se comigo
+
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/hitzschky7/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:SEUEMAIL@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/CiceroHitzschky/)
+
+### Habilidades
+
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=Python&logoColor=30A3DC)
+![Numpy](https://img.shields.io/badge/Numpy-000?style=for-the-badge&logo=Numpy&logoColor=30A3DC)
+![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=E94D5F)
+![Selenium](https://img.shields.io/badge/Selenium-000?style=for-the-badge&logo=selenium&logoColor=30A3DC)
+![Plotly](https://img.shields.io/badge/Plotly-000?style=for-the-badge&logo=Plotly&logoColor=30A3DC)
+![scikit-learn](https://img.shields.io/badge/sklearn-000?style=for-the-badge&logo=scikit-learn&logoColor=30A3DC)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=Linux&logoColor=30A3DC)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
+
+
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CiceroHitzschky&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CiceroHitzschky&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+<!--
+### Meus Principais Desafios de Projeto DIO
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=CiceroHitzschky&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/CiceroHitzschky/dio-lab-open-source)
+[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
+### Meus Principais Artigos na DIO
+<table>
+  <thead>
+    <tr align="left">
+      <th>Data</th>
+      <th>Título</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <td>14/12/2022</td>
+      <td>5 Dicas Essenciais para Aprender a Programar em Qualquer Linguagem! #CommunityWeek</td>
+      <td align="center">
+        <a href="https://web.dio.me/articles/5-dicas-essenciais-para-aprender-a-programar-em-qualquer-linguagem-communityweek">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>21/10/2022</td>
+      <td>Crie Seu Próprio Web Component</td>
+      <td align="center">
+        <a href="https://web.dio.me/articles/crie-seu-proprio-web-component">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>30/06/2022</td>
+      <td>Destrave seu Primeiro Desafio de Código</td>
+      <td align="center">
+        <a href="https://web.dio.me/articles/destrave-seu-primeiro-desafio-de-codigo">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-30A3DC?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
+    <tr>
+      <td>21/04/2022</td>
+      <td>5 Dicas para Melhorar seu Profile README do GitHub</td>
+      <td align="center">
+        <a href="https://web.dio.me/articles/5-dicas-para-melhorar-o-readme-do-seu-perfil-no-github">
+           <img align="center" alt="Ler Artigo" src="https://img.shields.io/badge/Ler%20Artigo-E94D5F?style=for-the-badge">
+        </a>
+      </td>    
+    </tr>
+  </tbody>
+  <tfoot></tfoot>
+</table>
+-->
+---
