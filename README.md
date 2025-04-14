@@ -2,11 +2,12 @@
 ---
 
 # Cícero Hitzschky
-<p  style="text-align: justify">
+
+<p style="text-align: justify;">
 Mestrando pelo Programa de Mestrado Acadêmico em Modelagem e Métodos Quantitativos (PPGMMQ) da Universidade Federal do Ceará (UFC) na área de concentração em Ciência de Dados, possui Especialização em Docência do Ensino Superior e Metodologias Ativas de Aprendizagem pela Faculdade Iguaçu (2023), graduação em Matemática, na modalidade de licenciatura plena, pela Universidade Estadual do Ceará (2023) e Graduação Tecnológica em Análise e Desenvolvimento de Sistemas pelo Centro Universitário UniFatecie (2023). Foi bolsista pelo Programa de Monitoria Acadêmica da Universidade Estadual do Ceará (PROMAC/UECE) nas disciplinas de Cálculo Diferencial e Integral I e III do curso de Matemática. Atuou como professor temporário na Secretaria de Educação do Estado do Ceará (Seduc). Atualmente é professor temporário no setor de Matemática Aplicada da Universidade Estadual do Ceará (UECE) no Centro de Ciêncais e Tecnologias Campus Itaperi, membro do Grupo de Pesquisa Modelos de Regressão e Aplicações da Universidade Federal do Ceará (UFC) e colaborador no Grupo de Extensão e Pesquisa em Matemática Aplicada e Computacional (GEPMAC) da Universidade Estadual do Ceará (UECE). 
+</p>
 Busco sempre o aprendizado e a oportunidade de por em prática meus conhecimentos teóricos!
 
-<p>
 ### Conecte-se comigo
 
 <!-- [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/hitzschky7/) -->
